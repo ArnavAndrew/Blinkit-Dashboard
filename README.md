@@ -36,10 +36,15 @@ Key Fields:
 🔍 Key Insights
 
 📦 Cities like Bengaluru and Delhi NCR contribute the highest sales volumes
+
 ⏱️ Average delivery time peaks during evening slots and weekends
+
 🥦 Fresh food and FMCG categories drive the most consistent revenue
+
 🎯 Discount-heavy days don’t always result in profit — showing low-margin risks
+
 ♻️ Repeat customers contribute more than 60% of total revenue
+
 📉 Certain cities show high delivery time & low satisfaction, indicating need for logistics improvements
 
 ---
